@@ -4,11 +4,14 @@ import {Header} from "./Header";
 import Footer from "./Footer";
 import Card from "./Card";
 
+
 function App() {
 
 
   return <div className="main">
     <Header/>
+    <Footer/>
+
 
 
     <div className="row">
